@@ -1,0 +1,43 @@
+# 🥳For own use
+# 🔗url = https://raw.githubusercontent.com/MCdasheng/Surge/main/RemoteRules.list
+
+
+# ✈️机场订阅
+DOMAIN, xunfan.co, Proxy
+DOMAIN, fmmmz.com, Proxy
+DOMAIN, ruicloud.one, Proxy
+DOMAIN, sub.ssrsub.com, Proxy
+DOMAIN, sub.cloudflare.quest, DIRECT
+DOMAIN, proxy.aries.ovh, DIRECT
+DOMAIN, get.noaries.app, DIRECT
+DOMAIN, get.ooop.ink, DIRECT
+DOMAIN, woc.ooop.ink, DIRECT
+DOMAIN, get.arki.ink, DIRECT
+
+# 🎯签到网站
+DOMAIN, www.macat.vip, DIRECT
+DOMAIN, www.mmybt.com, DIRECT
+DOMAIN, www.52appleid.com, DIRECT
+DOMAIN, esign.yyyue.xyz, DIRECT
+DOMAIN, bbs.wahatiyu.com, 🇼🇸台湾最优节点
+
+# 🏫uestc
+DOMAIN-keyword, legym, DIRECT
+DOMAIN-keyword, uestc, DIRECT
+
+# 📺Bilibili 
+DOMAIN-suffix,cm.bilibili.com,REJECT
+
+# 📺HdoBox
+DOMAIN-suffix, applovin.com, REJECT
+DOMAIN-suffix, applvn.com, REJECT
+DOMAIN-suffix, doubleclick.net, REJECT
+
+# 🏓WTT
+DOMAIN, mb3admin.com, Proxy
+DOMAIN, documentstore.ittf.com, Proxy
+DOMAIN, ap.pumpjackdataworks.com, Proxy
+DOMAIN, wtt-prod-app-services-v2.pumpjackdataworks.com, Proxy
+DOMAIN, wttsimfiles.blob.core.windows.net, Proxy
+DOMAIN, documentstore.ittf.com, Proxy
+DOMAIN, wttwebcmsprod.blob.core.windows.net, Proxy
