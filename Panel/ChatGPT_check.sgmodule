@@ -9,8 +9,7 @@
 
 
 [Panel]
+CFGPT = script-name=CFGPT,update-interval=1
 
-# GPT
-CFGPT = script-name=CFGPT,update-interval=-1
 [Script]
 CFGPT = type=generic,timeout=6,script-path=https://raw.githubusercontent.com/MCdasheng/Surge/main/Scripts/ChatGPT_check.js,argument=icon=lasso.and.sparkles&iconerr=xmark.seal.fill&icon-color=#336FA9&iconerr-color=#D65C51
